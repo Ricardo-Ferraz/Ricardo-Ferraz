@@ -20,7 +20,7 @@
    
 ## Pode me encontrar aqui
 <div style="display: inline-block"> <br>
-   <a href="https://www.linkedin.com/in/ricardo-ferraz-568bb81b8/" target="_blank"><img align="center" alt="Linkedin" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/ricardo-ferraz-568bb81b8/" onclick='window.open("https://www.linkedin.com/in/ricardo-ferraz-568bb81b8/");return false;'><img align="center" alt="Linkedin" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
      
 <div> <br>  
  
