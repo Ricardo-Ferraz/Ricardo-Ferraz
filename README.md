@@ -13,6 +13,7 @@
    <br>
    <img align="center" alt="Spring" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
    <img align="center" alt="Bootstrap" src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+   <img align="center" alt="Heroku" src= "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <div> <br>
   
 <div>
