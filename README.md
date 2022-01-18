@@ -1,4 +1,4 @@
-### Olá colega!🤠<br>Sou Ricardo Ferraz, eu poderia dizer que sou Desenvolvedor Java e estudante de Ciência da Computação, mas estou mais para um resolvedor de problemas do que isso!
+### Olá colega!🤠<br>Sou Ricardo Ferraz, eu poderia dizer que sou Desenvolvedor Fullstack Angular | Java | C# em treinamento e estudante de Ciência da Computação, mas estou mais para um resolvedor de problemas do que isso!
 
 
 ## Essas são algumas tecnologias que conheço
